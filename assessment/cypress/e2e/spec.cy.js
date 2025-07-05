@@ -134,7 +134,7 @@ describe('Events App Backend Tests', () => {
     let name = `Test-User_${Date.now()}`;
     let email = `test-user_${Date.now()}@gmail.com`;
     let temp_email = email;
-    let admin_email = "1akashtiwary@gmail.com";
+    let admin_email = "crio.do.test@example.com";
     const password = "12345678";
     const avatar = "https://picsum.photos/200";
     let token;
